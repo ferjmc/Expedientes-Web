@@ -64,7 +64,7 @@ export default {
     setOptions({ expectedData, actualData } = {}) {
       this.chart.setOption({
         xAxis: {
-          data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+          data: ['Lun', 'Mar', 'Mier', 'Jue', 'Vie'],
           boundaryGap: false,
           axisTick: {
             show: false

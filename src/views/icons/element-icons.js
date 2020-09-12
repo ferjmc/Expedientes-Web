@@ -66,6 +66,7 @@ const elementIcons = [
   'share',
   'setting',
   'upload',
+  'unlock',
   'upload2',
   'download',
   'loading'
